@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element label="table1" max_length="40" name="x_snc_cs5041035_sc_table1" type="collection">
+        <element attributes="edge_encryption_enabled=true" label="Field1" max_length="40" name="field1" type="string"/>
+        <element label="Field2" max_length="40" name="field2" type="integer"/>
+    </element>
+</database>
